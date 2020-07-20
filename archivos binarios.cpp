@@ -18,7 +18,9 @@ void consultar(){
 		printf("\nEl archivo no existe");
 	else
 	{
-		
+		//esto es una prueba de cambios de 
+		//las 
+		//cosas
 	}
 	
 	
