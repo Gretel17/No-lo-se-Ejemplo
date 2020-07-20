@@ -12,7 +12,7 @@ public class Calculadorasimple {
         obj.opciones();
         obj.mostrar();
         
-        
+        //esto es un ejemplo 1.0
         
     }
 
